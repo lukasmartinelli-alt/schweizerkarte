@@ -77,12 +77,12 @@
     "pitch": 0,
     "sources": {
         "mapbox": {
-            "url": "mapbox://mapbox.mapbox-streets-v6",
+            "url": "http://osm2vectortiles.tileserver.com/v1.json",
             "type": "vector"
         }
     },
-    "sprite": "mapbox://sprites/morgenkaffee/ciibw9nx80031bym52mq44okm",
-    "glyphs": "mapbox://fonts/morgenkaffee/{fontstack}/{range}.pbf",
+    "sprite": "/assets/sprite",
+    "glyphs": "/assets/font/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
