@@ -82,7 +82,7 @@
         }
     },
     "sprite": "/assets/sprite",
-    "glyphs": "/assets/font/{fontstack}/{range}.pbf",
+    "glyphs": "http://glfonts.lukasmartinelli.ch/fonts/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
